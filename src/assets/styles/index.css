@@ -11,7 +11,7 @@ body {
   line-height: 1.65;
   @apply font-open;
   @apply text-gray-700;
-  @apply text-14px;
+  @apply text-14px; 
 }
 
 h1,
@@ -215,7 +215,7 @@ button {
 
 .overlay {
   background-color: rgba(0, 0, 0, 0.35);
-  z-index: 21;
+  z-index: 20;
   @apply w-full;
   @apply h-full;
   @apply flex;
